@@ -1,0 +1,11 @@
+2017-05-30 12:11:33pm --- ::1 ----> admin:1==>Province ID 3
+2017-05-30 12:12:06pm --- ::1 ----> admin:1==>
+2017-05-30 12:12:07pm --- ::1 ----> admin:1==>16627
+2017-05-30 12:14:05pm --- ::1 ----> admin:1==>Province ID 2
+2017-05-30 12:14:13pm --- ::1 ----> admin:1==>
+2017-05-30 12:14:15pm --- ::1 ----> admin:1==>16628
+2017-05-30 12:14:15pm --- ::1 ----> admin:1==>oooooooooooooooooooooooooooooooooooogg: INSERT INTO `emedirec_1_visitors` (`patient_id`, `visitors_stay_date`, `visitors_leave_status`, `visitors_status`) VALUES ('16628', '', '1', '1')
+2017-05-30 12:21:54pm --- ::1 ----> admin:1==>Province ID 2
+2017-05-30 12:21:55pm --- ::1 ----> admin:1==>Province ID 2
+2017-05-30 12:22:26pm --- ::1 ----> admin:1==>
+2017-05-30 12:22:27pm --- ::1 ----> admin:1==>16629
